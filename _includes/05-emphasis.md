@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am wirting this content to learn markdown*
+_However this is very useful course_
+
+**Go through GIT tutorials**
+__Also refer GIT labs to practice__
+
+_you can reach **charan** for any **concerns**_
